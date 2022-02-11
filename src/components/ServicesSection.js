@@ -10,7 +10,7 @@ const ServicesItemsStyles = styled.div`
     display: flex;
     gap: 10rem;
     justify-content: space-between;
-    margin-top: 5rem;
+    margin-top: 2rem;
   }
   @media only screen and (max-width: 768px) {
     .services__allItems {

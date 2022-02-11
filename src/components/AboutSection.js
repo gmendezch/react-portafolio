@@ -6,7 +6,7 @@ import SectionTitle from './SectionTitle';
 import AboutImg from '../assets/images/gabo.jpg';
 
 const AboutSectionStyles = styled.div`
-  padding: 10rem 0;
+  padding: 1rem 0;
   .container {
     display: flex;
     align-items: center;

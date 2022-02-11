@@ -8,37 +8,37 @@ import CavinImg from '../images/cavinimg.jpg';
 const projects = [
   {
     id: uuidv4(),
-    name: 'U Tracker',
+    name: 'ECommercio',
     desc:
-      'An application to track your all data from one place. I developed the website and the mobile app',
+      'Una aplicación desarrollada con API REST FUL, para el control de un negocio con sucursales y almacenes',
     img: UTrackerImg,
   },
   {
     id: uuidv4(),
-    name: 'Green CTG',
+    name: 'Consultorio Médico ',
     desc:
-      'An app to help people to get an overview of how they can make the city beautiful.',
+      'Sistema para la reserva y atención médica en clinicas y consultorios privadas.',
     img: GreenCtgImg,
   },
   {
     id: uuidv4(),
-    name: 'Coin Tracker',
+    name: 'PsicoAgenda',
     desc:
-      'Using this app you can track any e coin. Also you will get a good advise about investment form the professional',
+      'Diseñado para que el personal del Inst. Psicopedagógico este comunicado y sobrellevar de mejor manera la pandemia',
     img: CoinTrackerImg,
   },
   {
     id: uuidv4(),
-    name: "Cavin's Portfolio",
+    name: 'Sistema Online de reserva y programación de Pacientes',
     desc:
-      'A portfolio for Cavin jr. A artist from New york city. The portfolio is made using ReactJs and GatsbyJs.',
+      'Sistema Web de programación y asignación de turnos para la atención de de pacientes.',
     img: CavinImg,
   },
   {
     id: uuidv4(),
-    name: 'Tracking Soft',
+    name: 'Sistema de pacientes Crónicos y Asegurados',
     desc:
-      'A tracking website that will show the performance of the website. Also you will get some useful advice to improve the performance.',
+      'Sistema de gestión de pacientes crónicos del Psico y pacientes de todos los seguros a nivel nacional.',
     img: ProjectImg,
   },
 ];

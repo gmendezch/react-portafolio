@@ -1,27 +1,26 @@
 const testimonials = [
   {
     id: 1,
-    name: 'Shaif Arfan',
-    title: 'CEO',
-    org: 'WEB CIFAR',
-    desc:
-      'Ayan is a person of commitment. He is really good at what he is doing. I really like his work. Especially the unique point of view of designing.',
+    name: 'Dra. Anita León',
+    title: 'Responsable SUS',
+    org: 'Inst. Psicopedagógico',
+    desc: 'Gabriel es responsable y cumple con su labor mas allá del deber.',
   },
   {
     id: 2,
-    name: 'Fahim Elahe',
-    title: 'Co-founder',
-    org: 'Kreetive',
+    name: 'Juan Pablo "Grulla" Rivera',
+    title: 'Dr. en medicina Natural',
+    org: 'Independiente',
     desc:
-      'Really amazing communication skills. Always understand what I am trying to achieve. Also, his work is really amazing. Do really high-quality work.',
+      'REalmente trabajar con Gabriel es un verdadero honor donde se aprende muchas cosas positivas, me siento orgulloso de conocerlo.Realmente es sorprendente',
   },
   {
     id: 3,
-    name: 'Sayed',
-    title: 'Marketing Head',
-    org: 'Eleven Dawn',
+    name: 'Isabel Gumiel',
+    title: 'REsponsable de Informaciones',
+    org: 'Psicopedagógico',
     desc:
-      'Really hard-working person. Deliver the work as promised. Planning to work more with this person.',
+      'Realmente es una bencidión que Gabriel sea nuestro jefe, nos guia y nos aconseja con tu basta sabiduria. Me siento afortunada de haberlo conocido',
   },
 ];
 export default testimonials;

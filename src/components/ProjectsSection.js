@@ -18,7 +18,7 @@ const ProjectSectionStyle = styled.div`
     margin-top: 1rem;
   }
   .swiper-container {
-    padding-top: 7rem;
+    padding-top: 6rem;
     max-width: 100%;
   }
   .swiper-button-prev,
@@ -62,7 +62,7 @@ export default function ProjectsSection() {
     <ProjectSectionStyle>
       <div className="container">
         <SectionTitle
-          subheading="Algunos de mis recientes trabajos"
+          subheading="Algo de mis trabajos recientes"
           heading="Proyectos"
         />
         <div className="projects__allItems">

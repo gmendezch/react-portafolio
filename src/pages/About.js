@@ -115,7 +115,7 @@ export default function About() {
 
               <AboutInfoItem
                 title="Colegio"
-                items={['Colegio NAcional Aniceto Arce']}
+                items={['Colegio NAcional Pichincha']}
               />
 
               <AboutInfoItem
@@ -128,15 +128,19 @@ export default function About() {
               />
             </div>
             <div className="about__info__item">
-              <h1 className="about__info__heading">Habilidadess</h1>
+              <h1 className="about__info__heading">Habilidades</h1>
 
               <AboutInfoItem
                 title="FrontEnd"
-                items={['HTML', 'CSS', 'JavaScript', 'REACT']}
+                items={['HTML', 'CSS', 'JavaScript', 'REACT', 'Bootstrap']}
               />
               <AboutInfoItem
                 title="BackEnd"
                 items={['Node', 'Express', 'ASP .NET']}
+              />
+              <AboutInfoItem
+                title="Base de Datos"
+                items={['Sql', 'Oracle', 'MySql', 'MongoDB']}
               />
               <AboutInfoItem
                 title="Design"
@@ -146,17 +150,18 @@ export default function About() {
             <div className="about__info__item">
               <h1 className="about__info__heading">Experiencia</h1>
 
-              <AboutInfoItem
-                title="2010-2012"
-                items={['junior developer at web Cifar']}
-              />
+              <AboutInfoItem title="2010-2012" items={['junior developer']} />
               <AboutInfoItem
                 title="2012-2016"
-                items={['Front end developer at web Cifar ']}
+                items={['Front end developer ']}
               />
               <AboutInfoItem
-                title="2016-"
+                title="2016-2019"
                 items={['Freelance web Developer']}
+              />
+              <AboutInfoItem
+                title="2019-2021"
+                items={['Resp. Sistemas - Estadística']}
               />
             </div>
           </div>
